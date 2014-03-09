@@ -15,6 +15,8 @@ unsigned char rotate(unsigned char c, int count)
 	return c;
 }
 
+
+
 int bits(unsigned char c)
 {
 	int bitCount = 0;
